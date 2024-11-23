@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
-<h3 align="center">A passionate Data & Business Analyst from India</h3>
+<h3 align="center">A passionate Data & Business Analyst</h3>
 <p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D12AQE5UWlCPJVZ7A/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1664964185240?e=1734566400&v=beta&t=Xvt2GtpWZ84Y7Cp_gm-RXGtwJx-HWLNbY_eSABdJq7M" alt="kraman00" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amankum78434286" target="blank"><img src="https://img.shields.io/twitter/follow/amankum78434286?logo=twitter&style=for-the-badge" alt="amankum78434286" /></a> </p>
